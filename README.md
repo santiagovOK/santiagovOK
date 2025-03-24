@@ -2,9 +2,10 @@
 
 I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience working as a freelance in the field of data management / data entry.
 
-📚 I am currently self-studying with support from [Platzi](https://platzi.com/p/santiagovrela/) and other resources.
+🎓 I am pursuing an Associate Degree in Programming (National Technological University (UTN) - Argentina).
 
-🎓 I am in the process of enrolling in the Programming Technician program (National Technological University (UTN) - Argentina).
+📚 Also, I am currently self-studying with support from [Platzi](https://platzi.com/p/santiagovrela/) and other resources.
+
 
 📍 **Mar del Plata, Argentina**
 
@@ -19,7 +20,17 @@ I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience 
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)  
 
 - **JavaScript**  
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
+
+#### Backend
+
+- **Node.js**
+    
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) 
+
+- **Python** - *I started it at university recently / doing a reinforcement through Platzi.*
+  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)  
 
 #### Tools
 
@@ -35,7 +46,7 @@ I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience 
 #### Operating Systems
 
 - **Linux (Ubuntu, Debian)**  
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)  
 
 ---
 
@@ -77,9 +88,10 @@ I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience 
 
 Soy Santiago, estudiante de desarrollo web (HTML, CSS, JavaScript) con experiencia trabajando como freelancer en manejo de datos.
 
-📚 Actualmente, estudio de forma autodidacta con apoyo en [Platzi](https://platzi.com/p/santiagovrela/) y otros recursos.
+🎓 Estudiante de Tecnicatura en Programación (UTN - Argentina).
 
-🎓 Estoy en proceso de ingreso a la Tecnicatura en Programación (UTN - Argentina).
+📚 También, estudio de forma autodidacta con apoyo en [Platzi](https://platzi.com/p/santiagovrela/) y otros recursos.
+
 
 📍 **Mar del Plata, Argentina**
 
@@ -94,7 +106,17 @@ Soy Santiago, estudiante de desarrollo web (HTML, CSS, JavaScript) con experienc
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)  
 
 - **JavaScript**  
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
+
+#### 💻 Backend
+
+- **Node.js**
+    
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25)  
+
+- **Python** - *Lo empecé en la universidad recientemente / haciendo un refuerzo a través de Platzi y otros recursos.*
+  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)    
 
 #### 🛠️ Herramientas
 
@@ -110,7 +132,7 @@ Soy Santiago, estudiante de desarrollo web (HTML, CSS, JavaScript) con experienc
 #### 💻 Sistemas Operativos
 
 - **Linux (Ubuntu, Debian)**  
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)  
 
 
 <details>

@@ -30,7 +30,12 @@ I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience 
 
 - **Python** - *I started it at university recently / doing a reinforcement through Platzi.*
   
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
+
+- **Java** - *I started it at university recently / doing a reinforcement through Platzi.*  
+
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+
 
 #### Tools
 
@@ -41,7 +46,7 @@ I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience 
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)  
 
 - **Docker**  
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)  
 
 #### Operating Systems
 
@@ -116,7 +121,11 @@ Soy Santiago, estudiante de desarrollo web (HTML, CSS, JavaScript) con experienc
 
 - **Python** - *Lo empecé en la universidad recientemente / haciendo un refuerzo a través de Platzi y otros recursos.*
   
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)    
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
+
+- **Java** - *Lo empecé en la universidad recientemente / haciendo un refuerzo a través de Platzi y otros recursos.*  
+
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)    
 
 #### 🛠️ Herramientas
 
@@ -127,7 +136,7 @@ Soy Santiago, estudiante de desarrollo web (HTML, CSS, JavaScript) con experienc
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)  
 
 - **Docker**  
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)  
 
 #### 💻 Sistemas Operativos
 

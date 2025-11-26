@@ -24,17 +24,14 @@ I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience 
 
 #### Backend
 
-- **Node.js**
-    
+- **Node.js**  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) 
 
-- **Python** - *I started it at university recently / doing a reinforcement through Platzi.*
-  
+- **Python** - *I started it at university recently / doing a reinforcement through Platzi.*  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
 
 - **Java** - *I started it at university recently / doing a reinforcement through Platzi.*  
-
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
 
 
 #### Tools
@@ -48,11 +45,12 @@ I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience 
 - **Docker**  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)  
 
-#### Operating Systems
+#### Operating Systems / Virtualization (Server)
 
-- **Linux (Ubuntu, Debian)**  
+- **Linux (Ubuntu, Debian mostly)**  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)  
-
+- **Proxmox (Virtualization, Debian based)**  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) 
 ---
 
 <details>
@@ -125,7 +123,7 @@ Soy Santiago, estudiante de desarrollo web (HTML, CSS, JavaScript) con experienc
 
 - **Java** - *Lo empecé en la universidad recientemente / haciendo un refuerzo a través de Platzi y otros recursos.*  
 
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)    
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)    
 
 #### 🛠️ Herramientas
 
@@ -138,10 +136,12 @@ Soy Santiago, estudiante de desarrollo web (HTML, CSS, JavaScript) con experienc
 - **Docker**  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)  
 
-#### 💻 Sistemas Operativos
+#### 💻 Sistemas Operativos / Virtualización (servidores)
 
-- **Linux (Ubuntu, Debian)**  
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)  
+- **Linux (Ubuntu, Debian principalmente)**  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
+- **Proxmox (Virtualización, basado en Debian)**  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)   
 
 
 <details>

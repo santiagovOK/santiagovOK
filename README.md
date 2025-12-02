@@ -1,8 +1,8 @@
 ## Hi 👋
 
-I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience working as a freelance in the field of data management / data entry.
+I'm Santiago, a programming student with experience working freelance in data management and data entry.
 
-🎓 I am pursuing an Associate Degree in Programming (National Technological University (UTN) - Argentina).
+🎓 I am pursuing an Associate Degree in Programming at the National Technological University (UTN - Argentina). My coursework covers the fundamentals of multiple languages, building a strong foundation for a future Full-Stack career.
 
 📚 Also, I am currently self-studying with support from [Platzi](https://platzi.com/p/santiagovrela/) and other resources.
 
@@ -22,17 +22,24 @@ I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience 
 - **JavaScript**  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
 
+- **TypeScript** - *Upcoming university subject (2026), so I started self-studying now.*  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+
 #### Backend
 
 - **Node.js**  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) 
 
-- **Python** - *I started it at university recently / doing a reinforcement through Platzi.*  
+- **Python** - *I started it at university (2025) / doing a reinforcement through Platzi.*  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
 
-- **Java** - *I started it at university recently / doing a reinforcement through Platzi.*  
+- **Java** - *I started it at university (2025) / doing a reinforcement through Platzi.*  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
 
+#### Data Analysis
+
+- **R** *Covered fundamentals at university.*   
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
 
 #### Tools
 
@@ -89,9 +96,9 @@ I'm Santiago, a web development student (HTML, CSS, JavaScript) with experience 
 
 ## Hola 👋
 
-Soy Santiago, estudiante de desarrollo web (HTML, CSS, JavaScript) con experiencia trabajando como freelancer en manejo de datos.
+Soy Santiago, estudiante de programación con experiencia trabajando como freelancer en manejo de datos.
 
-🎓 Estudiante de Tecnicatura en Programación (UTN - Argentina).
+🎓 Tecnicatura en Programación (UTN - Argentina), en curso. La tecnicatura se enfoca en cubrir los fundamentos de múltiples lenguajes, dandonos herramientas para convertirnos en desarrolladores Full-Stack
 
 📚 También, estudio de forma autodidacta con apoyo en [Platzi](https://platzi.com/p/santiagovrela/) y otros recursos.
 
@@ -111,6 +118,9 @@ Soy Santiago, estudiante de desarrollo web (HTML, CSS, JavaScript) con experienc
 - **JavaScript**  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
 
+- **TypeScript** - *Lo veremos en la universidad (2026), por lo que comencé a estudiar por mi cuenta.*  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+
 #### 💻 Backend
 
 - **Node.js**
@@ -123,7 +133,12 @@ Soy Santiago, estudiante de desarrollo web (HTML, CSS, JavaScript) con experienc
 
 - **Java** - *Lo empecé en la universidad recientemente / haciendo un refuerzo a través de Platzi y otros recursos.*  
 
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)    
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
+
+#### Data Analysis
+
+- **R** - *Estudié aspectos fundamentales en la universidad.*   
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)    
 
 #### 🛠️ Herramientas
 

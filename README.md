@@ -36,9 +36,12 @@ I'm Santiago, a programming student with experience working freelance in data ma
 - **Java** - *I started it at university (2025) / doing a reinforcement through Platzi.*  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
 
+- **MySQL**  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
+
 #### Data Analysis
 
-- **R** *Covered fundamentals at university.*   
+- **R** - *Covered fundamentals at university.*   
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
 
 #### Tools
@@ -134,6 +137,9 @@ Soy Santiago, estudiante de programación con experiencia trabajando como freela
 - **Java** - *Lo empecé en la universidad recientemente / haciendo un refuerzo a través de Platzi y otros recursos.*  
 
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
+
+- **MySQL**  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
 
 #### Data Analysis
 

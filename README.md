@@ -60,7 +60,9 @@ I'm Santiago, a programming student with experience working freelance in data ma
 - **Linux (Ubuntu, Debian mostly)**  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)  
 - **Proxmox (Virtualization, Debian based)**  
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) 
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
+- **RouterOS**  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)  
 ---
 
 <details>
@@ -163,7 +165,8 @@ Soy Santiago, estudiante de programación con experiencia trabajando como freela
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 - **Proxmox (Virtualización, basado en Debian)**  
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)   
-
+- **RouterOS**  
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) 
 
 <details>
   <summary>Formación académica en otras áreas</summary>

@@ -56,7 +56,9 @@ I'm Santiago, a programming student with experience working freelance in data ma
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35) 
 
 - **N8N**  
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) 
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35) 
+
+- **MCP** ✔️
 
 #### Operating Systems / Virtualization (Server)
 
@@ -163,7 +165,9 @@ Soy Santiago, estudiante de programación con experiencia trabajando como freela
   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
 
 - **N8N**  
-  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25)   
+  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)   
+
+- **MCP** ✔️
 
 #### 💻 Sistemas Operativos / Virtualización (servidores)
 
